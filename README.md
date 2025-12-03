@@ -5,6 +5,6 @@ This project focuses on using clinical information, specifically serum creatinin
 
 ### Report
 
-### Dataset
+### [Dataset](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)
 
-### Code
+### [Code](https://colab.research.google.com/drive/1vwy1vKF9UDW7b5ixOdOg6KjtK6o3RWld?usp=sharing)
